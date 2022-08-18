@@ -36,7 +36,7 @@ button:hover>i {
 }
 
 button i {
-    color: 102F5e;
+    color: #102F5e;
     font-weight: bold;
     pointer-events: none;
 }
@@ -88,6 +88,7 @@ select {
 
 #cancel-edit-btn {
     margin-top: 1rem;
+    color: #444;
 }
 
 /* Todo toolbar */
@@ -99,7 +100,7 @@ select {
 }
 
 #toobar h4 {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
 }
 
 #search {
